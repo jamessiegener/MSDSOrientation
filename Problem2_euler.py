@@ -1,4 +1,3 @@
-
 num = 2
 prev = 1
 sum = 0
